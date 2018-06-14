@@ -1,0 +1,76 @@
+﻿<Parts>
+  <Part>
+    <disc>
+      <perso>SYSTEM</perso>
+      <text>Touches: CLICK GAUCHE pour tirer et QZSD pour se déplacer</text>
+    </disc>
+    <disc>
+      <perso>Pompier</perso>
+      <text>Salut Jhon !</text>
+    </disc>
+    <disc>
+      <perso>Jhon Doe</perso>
+      <text>Hey Mr. le Pompier !</text>
+    </disc>
+    <disc>
+      <perso>Pompier</perso>
+      <text>Au feu !</text>
+    </disc>
+    <disc>
+      <perso>Pompier</perso>
+      <text>Aide moi à éteindre les flames s'il te plaît !</text>
+    </disc>
+    <disc>
+      <perso>Pompier</perso>
+      <text>Attrape vite la bombone d'eau juste là et arrose abomdement les foyers.</text>
+    </disc>
+  </Part>
+  <Part>
+    <disc>
+      <perso>Pompier</perso>
+      <text>Bravo tu as vaincu le feu !</text>
+    </disc>
+    <disc>
+      <perso>Jhon Doe</perso>
+      <text>Merci :)</text>
+    </disc>
+    <disc>
+      <perso>Pompier</perso>
+      <text>Il semblerait qu'il en reste un !</text>
+    </disc>
+    <disc>
+      <perso>Pompier</perso>
+      <text>La hache devant le camion devrait t'aider à briser la glace qui te sépare de l'extincteur !</text>
+    </disc>
+    <disc>
+      <perso>Jhon Doe</perso>
+      <text>Pas de soucis j'y vais !</text>
+    </disc>
+  </Part>
+  <Part>
+    <disc>
+      <perso>Pompier</perso>
+      <text>Merci à toi tu as gagné !</text>
+    </disc>
+    <disc>
+      <perso>Jhon Doe</perso>
+      <text>Quelle aventure !</text>
+    </disc>
+    <disc>
+      <perso>Pompier</perso>
+      <text>Tu as très bien géré le stress ainsi que les différents outils que j'utilise au quotidien !</text>
+    </disc>
+    <disc>
+      <perso>Jhon Doe</perso>
+      <text>Merci !</text>
+    </disc>
+    <disc>
+      <perso>Pompier</perso>
+      <text>Merci de m'avoir aidé aujourd'hui ! A bientôt !</text>
+    </disc>
+    <disc>
+      <perso>SYSTEM</perso>
+      <text>LE JEU VA QUITTER EN APPUYANT SUR F, nous espérons que tu as bien appris en t'amusant! Au revoir et à bientôt</text>
+    </disc>
+  </Part>
+</Parts>
